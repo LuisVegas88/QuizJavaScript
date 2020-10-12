@@ -31,12 +31,12 @@ let questions = [
         Correct:"Garra"
     }, 
     {
-        Q : "¿Qué casas se enfrentan en la Batalla de los Bastardos",
+        Q : "¿Qué casas se enfrentan en la Batalla de los Bastardos?",
         A : ["Stark y Targaryen", "Bolton y Targaryen", "Grejoy y Stark", "Stark y Bolton"],
         Correct: "Stark y Bolton"
     }, 
     {
-        Q : "¿Cúal de estos no es un apellido de bastardo",
+        Q : "¿Cúal de estos no es un apellido de bastardo?",
         A : ["Fuego", "Flores", "Arena", "Pyke"],
         Correct: "Fuego"
     },
